@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    background-color: blue;
+    padding: 10px 0;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+a {
+    color: aliceblue;
+    text-align: center;
+}
